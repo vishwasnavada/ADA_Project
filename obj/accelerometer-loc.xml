@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file />
+    <file_marker column=" 22" line=" 10" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\Ada_Drivers_Library-master\Ada_Drivers_Library-master\examples\STM32F4_DISCO\accelerometer\accelerometer.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2020\Ada_Drivers_Library-master\Ada_Drivers_Library-master\examples\STM32F4_DISCO\accelerometer\accelerometer.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2020\Ada_Drivers_Library-master\Ada_Drivers_Library-master\examples\STM32F4_DISCO\accelerometer\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 61" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2020\Ada_Drivers_Library-master\Ada_Drivers_Library-master\boards\stm32f407_discovery\stm32f407_discovery_full.gpr</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2020\Ada_Drivers_Library-master\Ada_Drivers_Library-master\boards\stm32f407_discovery\stm32f407_discovery_full.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2020\Ada_Drivers_Library-master\Ada_Drivers_Library-master\arch\ARM\STM32\drivers\uart_stm32f4\stm32-usarts.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
